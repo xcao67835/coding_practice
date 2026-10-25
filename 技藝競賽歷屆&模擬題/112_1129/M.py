@@ -3,6 +3,13 @@
 for _ in range(int(input())):
     n,x=map(int,input().split())
     l = list(map(int,input().split()))
-    l.sort(reverse=True)
+    l.sort()
     ans=0
-    for 
+    group=[]
+    while l:
+        group.append(l.pop())
+        if group[-1]*len(group)>=x:
+            ans+=1
+            group=[]
+            
+    print(ans)
