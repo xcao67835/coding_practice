@@ -63,12 +63,4 @@ for i in range(n):
     print(f"depth = {tree[i]['depth']}, ", end="")
     print(f"height = {tree[i]['height']},")
 
-"""
-6
-0 3 -1
-3 4 -1
-4 1 2
-2 -1 -1
-1 5 -1
-5 -1 -1
-"""
+
