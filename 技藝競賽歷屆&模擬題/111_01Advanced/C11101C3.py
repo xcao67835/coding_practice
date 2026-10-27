@@ -2,7 +2,7 @@
 
 while 1:
     a,b=input().split()
-    if a==b==0:
+    if a==b=="0":
         break
     
     
@@ -19,5 +19,8 @@ while 1:
             ans+=1
             
     if ans==0:
-        ans="No"
-    print(f"{ans} carry operation")
+        print("No carry operation.")
+    elif ans==1:
+        print("1 carry operation.")
+    else:
+        print(f"{ans} carry operations.")
