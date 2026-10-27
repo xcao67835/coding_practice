@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from math import floor
+
 for _ in range(int(input())):
     a,b=map(int,input().split())
     c=a//b
