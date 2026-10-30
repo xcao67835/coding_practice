@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#TLE
 n=int(input())
 
 nodev=[0]+list(map(int,input().split()))
