@@ -9,7 +9,6 @@ for i in range(1,n):
         if i>j-1:
             ops.append(abs(stones[i] - stones[i-j])+dp[i-j])
 
-
     dp[i]=min(ops)
     
 print(dp[-1])
