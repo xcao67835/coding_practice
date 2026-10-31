@@ -13,12 +13,13 @@ sides = [
 ]
 V,E=4,5
 
+
+#初始化
 graph=defaultdict(list)
 for a,b,w in sides:
     graph[a].append((w,b,a))
     graph[b].append((w,a,b))
-    
-    
+     
 root=list(graph.keys())[0]
 visited={root}
 heap=graph[root].copy()
