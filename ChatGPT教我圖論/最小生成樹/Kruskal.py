@@ -51,5 +51,6 @@ if count!=V-1:
     connect=False
         
 
-print(cost)
+
+print(cost, len(MST), connect)
 print(MST)
