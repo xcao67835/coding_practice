@@ -57,7 +57,7 @@ for i in order[::-1]:
     if i not in visited:
         visited.add(i)
         SCC=set()
-        SCC.add(j)
+        SCC.add(i)
         
         stack.append(i)
         

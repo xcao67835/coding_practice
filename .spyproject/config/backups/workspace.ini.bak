@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = []
+recent_files = ['..\\..\\..\\.spyder-py3\\temp.py', '技藝競賽歷屆&模擬題\\106\\A.py', '技藝競賽歷屆&模擬題\\106\\B.py', '技藝競賽歷屆&模擬題\\106\\C.py', '技藝競賽歷屆&模擬題\\106\\D.py', '技藝競賽歷屆&模擬題\\106\\E.py', '技藝競賽歷屆&模擬題\\106\\F.py', '技藝競賽歷屆&模擬題\\106\\G.py', '技藝競賽歷屆&模擬題\\106\\H.py', '技藝競賽歷屆&模擬題\\106\\GAI.py', '..\\..\\..\\AppData\\Local\\Temp\\522b8a85-38bb-48ce-9212-82fe2e0aa998_C程式設計金手1-7.rar.998\\金手1_C032\\problem_P2\\correct_1170.py', '..\\..\\..\\AppData\\Local\\Temp\\4efb41be-7290-42d0-b035-b0ae014adc4e_C程式設計金手1-7.rar.c4e\\金手2_C013\\problem_P2\\correct_1277.py', '..\\..\\..\\AppData\\Local\\Temp\\d5180963-1618-4dd6-9820-9ada1bc03fa2_C程式設計金手1-7.rar.fa2\\金手3_C004\\problem_P2\\correct_1366.py', '..\\..\\..\\AppData\\Local\\Temp\\a63b5bac-8027-4fb7-837b-67f2c29c680f_C程式設計金手1-7.rar.80f\\金手4_C022\\problem_P2\\correct_1271.py', '..\\..\\..\\AppData\\Local\\Temp\\4bdb45c3-8067-46bd-82cf-2e02b7c81cac_C程式設計金手1-7.rar.cac\\金手5_C040\\problem_P2\\correct_1203.py', '..\\..\\..\\AppData\\Local\\Temp\\cc24ed48-4eb0-401d-bdad-efecf146a2ed_C程式設計金手1-7.rar.2ed\\金手6_C045\\problem_P2\\timelimit_1413.py', '..\\..\\..\\AppData\\Local\\Temp\\e78d5ac9-4825-4037-bd96-a9fb01680fa2_C程式設計金手1-7.rar.fa2\\金手7_C010\\problem_P2\\correct_1212.py']
 
 [main]
 version = 0.2.0
