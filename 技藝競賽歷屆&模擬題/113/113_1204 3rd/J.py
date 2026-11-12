@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
-from itertools import permutations
 n=int(input())
-p = list(permutations(range(1,1+n)))
-p.sort(reverse=1)
-for i in p:
-    print(*i,sep="")
-    
+while n!=1:
+    print(n, end=" ")
+    if n%2==0:
+        n//=2
+    else:
+        n=n*3+1
+print(1)
+        
