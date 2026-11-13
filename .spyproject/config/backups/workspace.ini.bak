@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['技藝競賽歷屆&模擬題\\111\\111_1130 3rd\\時間.txt', '技藝競賽歷屆&模擬題\\111\\111_1130 3rd\\Q.py']
+recent_files = ['技藝競賽歷屆&模擬題\\112\\112_1129 3rd\\時間.txt', '技藝競賽歷屆&模擬題\\112\\112_1129 3rd\\S.py']
 
 [main]
 version = 0.2.0
